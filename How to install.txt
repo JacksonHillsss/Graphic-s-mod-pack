@@ -1,0 +1,6 @@
+first: MAKE SURE YOU DELETE ANY OLD MODS OR ENB THAT YOU HAVE INSTALLED, ANYTHING THAT SAYS ENB IN YOUR GTA DIRECTORY DELETE BEFORE INSTALLING THE NEW ONE
+
+
+Head over to your fivem application data and delete your mods and plugins folder, then go to the graphics pack and drag the plugins and mods folder into your application data
+go to your gta directory and delete anything that says enb before installing the new enb
+go to the pack and open the "gta diretory" folder, then DRAG all the ENB files into your GTA Directory
